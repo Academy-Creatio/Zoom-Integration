@@ -1,0 +1,166 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "77bc1e2b-78f9-4dad-97a7-3470a96f62c1"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "ac39693d-1b1a-4f0a-aff3-e6a1ddfba23e",
+          "DisplayValue": "Zoom Registration Type"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "15a50a40-77d1-4489-bbe4-4851b6235815"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "ad6f587b-a38a-437b-b19b-c2ace18c9c2e",
+          "DisplayValue": "Zoom Weekly Days"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2b5fcb82-95b1-4b09-bbab-5d241e4d7321"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "3c8d5fd3-2a6d-4887-b7af-173a05af9471",
+          "DisplayValue": "Zoom Recurrence Type"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ac521398-34ab-4d0d-9282-60da43183478"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "705075a5-fd04-4e9c-84f5-c0c07dd50201",
+          "DisplayValue": "Zoom Auto Recording"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "59c59ec1-95a7-4776-83f1-9ccd610be464"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "423c3ce7-1a54-49c0-a8f2-7c66ca050f99",
+          "DisplayValue": "Zoom Time Zone"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "729506fd-c88e-4b59-8b05-cb38ab2b97e1"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "6f2c10f4-6bb1-4858-bc6c-8057915d8c71",
+          "DisplayValue": "Zoom Monthly Week"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f2c46ee2-e33b-4044-9590-d00cb3b05dd6"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "2b2d5d5d-93d1-46a6-a648-4db70d42d207",
+          "DisplayValue": "Zoom Approval Type"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4452f089-88c5-4759-a038-d5cb81c3c15d"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "b25dea27-ddfa-448c-aa99-b35d109176c1",
+          "DisplayValue": "Zoom Meeting Type"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "adb68a98-6c3a-443c-a70e-00a1094ae514",
+          "DisplayValue": "Zoom"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ccf415fa-d03e-4781-9a8e-d6d8b9c63453"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "87c06549-5ae9-4083-90a7-2d77b39d66b7",
+          "DisplayValue": "Zoom Audio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5a635bf0-097f-41a5-9d0f-3847d8d1801f",
+    "Name": "ZoomAudio",
+    "ModifiedOnUtc": "\/Date(1542131534000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Audio",
+    "DependsOn": []
+  }
+}

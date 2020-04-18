@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "97ea2f28-f12f-4928-ab4a-79384aae9c83",
+    "Name": "ZoomAccountUserPage",
+    "ModifiedOnUtc": "\/Date(1587215206000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Card schema: \"Zoom Account User\""
+  }
+}

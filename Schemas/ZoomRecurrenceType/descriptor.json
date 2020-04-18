@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "67b89b7a-7caf-4905-961c-55cca9b68392",
+    "Name": "ZoomRecurrenceType",
+    "ModifiedOnUtc": "\/Date(1542131532000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Recurrence Type",
+    "DependsOn": []
+  }
+}

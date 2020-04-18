@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c8fd8f49-161a-4cce-98d6-ad0608f4cd49",
+    "Name": "ZoomAccountsInFolder",
+    "ModifiedOnUtc": "\/Date(1542111947000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Accounts in Folder",
+    "DependsOn": []
+  }
+}

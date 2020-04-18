@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zoom Meeting in Folder" />
+			<Item Name="Columns.Folder.Caption" Value="Zoom Meeting folder" />
+			<Item Name="Columns.ZoomMeeting.Caption" Value="Zoom Meeting" />
+		</Items>
+	</Group>
+</Resources>

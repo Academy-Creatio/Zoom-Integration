@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "14e1e31c-dd0d-44d6-ad78-3177ab45b899",
+    "Name": "ZoomApprovalType",
+    "ModifiedOnUtc": "\/Date(1542131539000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Approval Type",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,105 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a8570ec-dedd-4274-b6cf-82db3fef57f4",
+    "Name": "ZoomVideoRecordings",
+    "ModifiedOnUtc": "\/Date(1548360452000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "a6c38dc9-e016-49d3-ac5f-470d00901d3e",
+      "Name": "ZoomVideoRecordings"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "5d31581f-c8ab-44f2-8207-5fe05090961b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RecordingEnd",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "b9310d34-3d17-41cd-b854-f017f3154e48",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FileId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "a53c1288-87ef-4bde-a860-a5ad84151f2a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FileSize",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "4914c970-2250-4467-ae8e-9fea7f35874a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RecordingStart",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "688fc057-e124-474a-ba43-dbbb21f06fff",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "PlayUrl",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "55e38f83-e6e6-4722-80ef-16063de41d63",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RecordHash",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "71ce759f-6674-4a44-92b4-17f4c2cabb6f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DownloadUrl",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "9d9114f9-ba9a-4093-81b7-248e812563bd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FileType",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "1d8b05ae-bb66-409b-b7b3-c9d5cb6f73a3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Status",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "6f5f4f82-66bb-4292-a88e-6227bdeabc1a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MeetingId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "eb136e5a-852f-4643-b4ba-fc4398c68cd7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Activity",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ee925a17-efec-4120-a8b2-c433536d8ea1",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RecordingType",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

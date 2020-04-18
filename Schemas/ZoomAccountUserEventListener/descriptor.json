@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cd004f4f-49a6-4f73-bf0a-073fd1223ca0",
+    "Name": "ZoomAccountUserEventListener",
+    "ModifiedOnUtc": "\/Date(1542185247000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ZoomAccountUserEventListener",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "dc674ded-a749-4a02-901d-37ca1d5b9925",
+    "Name": "ZoomMeetingParticipantDetail",
+    "ModifiedOnUtc": "\/Date(1587215898000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Zoom Meeting Participant\""
+  }
+}

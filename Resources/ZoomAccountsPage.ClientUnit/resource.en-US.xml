@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Zoom Accounts&quot;" />
+			<Item Name="LocalizableStrings.ApiKeyTip.Value" Value="&lt;p&gt;&lt;b&gt;Generate API Key &lt;a href=&quot;https://marketplace.zoom.us&quot; target=&quot;_blank&quot;&gt;https://marketplace.zoom.us&lt;/a&gt;&lt;/b&gt; Please see the migration blog for more details. &lt;br&gt;&lt;li&gt;1. Go to marketplace&lt;/li&gt;&lt;li&gt;2. Click Manage &lt;/li&gt;&lt;li&gt;3. Select Migrated JWT App to access your API Key/Secret.&lt;//li&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ApiSecretTip.Value" Value="&lt;p&gt;&lt;b&gt;Generate API Secret &lt;a href=&quot;https://marketplace.zoom.us&quot; target=&quot;_blank&quot;&gt;https://marketplace.zoom.us&lt;/a&gt;&lt;/b&gt; Please see the migration blog for more details. &lt;br&gt;&lt;li&gt;1. Go to marketplace&lt;/li&gt;&lt;li&gt;2. Click Manage &lt;/li&gt;&lt;li&gt;3. Select Migrated JWT App to access your API Key/Secret.&lt;//li&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UsersTabCaption.Value" Value="Users" />
+		</Items>
+	</Group>
+</Resources>

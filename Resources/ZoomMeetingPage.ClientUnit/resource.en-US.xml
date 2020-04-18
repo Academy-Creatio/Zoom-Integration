@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Zoom Meeting&quot;" />
+			<Item Name="LocalizableStrings.Taba449ce59TabLabelGroup08a79718GroupCaption.Value" Value="General" />
+			<Item Name="LocalizableStrings.Taba449ce59TabLabelGroup15a7dbe2GroupCaption.Value" Value="Recurrence" />
+			<Item Name="LocalizableStrings.Taba449ce59TabLabelGroup6e968f57GroupCaption.Value" Value="Settings" />
+			<Item Name="LocalizableStrings.Taba449ce59TabLabelTabCaption.Value" Value="Properties" />
+		</Items>
+	</Group>
+</Resources>

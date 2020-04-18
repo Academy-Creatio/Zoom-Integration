@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4303332f-c79a-4145-916d-16e09a49daa6",
+    "Name": "ZoomToken",
+    "ModifiedOnUtc": "\/Date(1543409170000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ZoomToken",
+    "DependsOn": []
+  }
+}

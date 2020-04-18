@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "36322b1c-0eaa-4193-95b4-232b0c9f66ce",
+    "Name": "ZoomMeetingParticipantEventListener",
+    "ModifiedOnUtc": "\/Date(1548357969000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ZoomMeetingParticipantEventListener",
+    "DependsOn": []
+  }
+}

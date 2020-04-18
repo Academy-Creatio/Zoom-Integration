@@ -1,0 +1,1759 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "80a06988-d6a4-4c72-97fc-0060824b0027"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d71ca126-7eab-4a27-97c6-011bd126c1f2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "4e97c463-a06a-48d8-90db-db97f2e3c090",
+          "DisplayValue": "Tripoli (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b157fecb-0a2c-4ddc-9081-09170e3c91c1"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "(GMT) UTC Time Format"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "968cbc7d-7841-4461-b2d6-0cf965cf5e41"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8a928eca-5a5f-417a-b58d-0e2c1665c323"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "afc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kathmandu (GMT+05:45)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9c0423c3-da1b-4114-ad6d-0eac21ebecf2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8cc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Dublin, Edinburgh, Lisbon, London (GMT)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6f2b7a0f-4a3f-4971-a16a-0eac83f40e67"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "bac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Taipei (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "db610a7a-664c-4784-9ad5-1070e8d8edc4"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6e4a0c79-cbce-4af8-a9f5-114e48c0537f"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b2c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Novosibirsk (RTZ 5) (GMT+06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8e599e88-9023-431b-9bc4-137350818369"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Baghdad (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c22d9220-15ce-4864-9da9-137547c21876"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "(GMT) UTC Time Format"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fd5246ba-7ef7-44e9-8bea-143e996089ab"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Baghdad (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2429891-88a3-4f58-9fb5-15e29776d31e"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "91c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brussels, Copenhagen, Madrid, Paris (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e314be35-2a01-4be6-b273-15f16a5b5e7c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "94c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amman (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4c41eb82-cac8-498b-8318-16565f47dcb9"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b1c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Dhaka (GMT+06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b1ef39ed-23b0-4718-82ae-169fc2682e0c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b6c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Beijing, Chongqing, Hong Kong, Urumqi (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8a9d7379-36ac-4a2c-ab5b-17c07f00b4b4"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9d8aac66-5522-4526-82ad-1a824c8d66d6"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "7dc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Atlantic Time (Canada) (GMT-04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1d74f173-17fa-4300-a6ba-1a9ebf4c72d5"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Pacific Time (US & Canada) (GMT-08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6a7e13e1-5781-4af0-8eda-1aa6c77e45e0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "7dc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Atlantic Time (Canada) (GMT-04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9d185b33-0374-49db-a586-1c007aa516b6"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "70c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Mountain Time (US & Canada) (GMT-07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a3bc52be-02bf-40e4-b1d4-1f506cb33aeb"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "31e6106b-6106-4b8d-bd28-91dbf6f7fb34",
+          "DisplayValue": "Magadan (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7f94f824-b448-44ae-ad2b-2ab0d491da1b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a4c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Baku (GMT+04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3a80ee9d-66ac-4811-ac07-2bf6f1bb8efe"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b0c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Astana (GMT+06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cfa78f4c-5a2d-41b4-aa21-2ca832ab6d04"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c8c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Auckland, Wellington (GMT+12:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "72bf7a25-6fac-4df9-8951-2cdfd8dfd0fe"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "bcc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Osaka, Sapporo, Tokyo (GMT+09:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1634eaa7-3ce7-45b0-b649-2e160041e6a6"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "cac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Fiji (GMT+12:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "11b4b87f-706b-45ed-bfd3-2e64e567ed3a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dbbb22de-1860-48dd-8427-2eaeecf7563f"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a3c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Abu Dhabi, Muscat (GMT+04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "94747142-2599-4e0b-90ca-32d9a27bcca5"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "7bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Caracas (GMT-04:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2ac97f4e-7924-4447-a067-338431eba576"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "79c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Eastern Time (US & Canada) (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ce1e5e62-0530-4737-b6fe-38fb9320dbe1"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "bec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Yakutsk (RTZ 8) (GMT+09:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ab5d361f-ffb1-467c-ac21-39799e2a2ee9"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "95c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Athens, Bucharest (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5450abb6-50df-4708-beb8-3c63bc1d652b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "93c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "West Central Africa (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9bbaea30-cda6-4dd5-861f-3d90a857601e"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "70c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Mountain Time (US & Canada) (GMT-07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7e6211b0-82df-436c-9899-40c63f68b093"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "92c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Sarajevo, Skopje, Warsaw, Zagreb (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "226b07e0-9b15-4926-9a10-41277e1dd0f8"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6cc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Alaska (GMT-09:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "64b042cd-5bf8-4d03-9007-4620b7bb57c2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "79c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Eastern Time (US & Canada) (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6e694f03-14da-4b61-a992-4af5924732ec"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "90c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Belgrade, Bratislava, Budapest, Ljubljana, Prague (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "50500578-0665-4ed3-867c-4bda78982987"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "77c8a500-03c2-4523-8fc6-5232bf1cb066"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "78c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Bogota, Lima, Quito, Rio Branco (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "074b5dd7-17bb-4a96-8320-5532147f7c8f"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f5482b6d-2b81-47c8-a152-572591e0109a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c6c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Solomon Is., New Caledonia (GMT+11:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9c4399aa-2f43-4742-897b-5ad5d1b59865"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0ebd777c-5eba-4bb6-bb93-5c70d8b236ea"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "82fb43b7-0e9a-4f9e-bb5b-5cc131af239b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8dc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Casablanca (GMT)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "db6e7068-ec00-49d1-b60c-5dc6369009ce"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b8c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuala Lumpur, Singapore (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1625a6cc-fe0c-474e-9327-5ea1db1a9484"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "0f20a673-6d51-4800-a1e5-514134ec4a65",
+          "DisplayValue": "Istanbul (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6af7fb5e-e519-4c0b-b550-5ea8945a6a24"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "79c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Eastern Time (US & Canada) (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "471a8c19-1c44-4562-acb1-5ec1beb08dfc"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b4c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Bangkok, Hanoi, Jakarta (GMT+07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "80cdc32b-ea8e-4e33-aea3-5ef8317c641a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "abc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Islamabad, Karachi (GMT+05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "706b5314-8833-4c82-b97b-5fd5e23d7dc9"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "90c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Belgrade, Bratislava, Budapest, Ljubljana, Prague (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "06ec954c-a424-4b75-b0a4-602d7d6c8cd0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a1c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Nairobi (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d7e9ed3b-907f-4744-a42c-616e9772c85f"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "80c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Santiago (GMT-03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ad45c985-5c8e-483f-9dc4-623fd61a4725"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "96c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Beirut (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0525504d-b342-4778-8425-624e71744fa1"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "81c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Newfoundland (GMT-03:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3554d3a5-8f98-4146-bf76-683222bba7cb"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "91c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brussels, Copenhagen, Madrid, Paris (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "71f8df80-4ab5-4313-ba0f-684e70a582d6"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "92c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Sarajevo, Skopje, Warsaw, Zagreb (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6ab616bf-168b-43fa-9b54-6b264f28b875"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "86c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Montevideo (GMT-03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2cf86fe5-3452-4e7d-b162-6f427774404a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b1c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Dhaka (GMT+06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0d02e0a2-41bc-453e-91bd-770a3ddd9c48"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c0c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Darwin (GMT+09:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3bebece4-2bf8-4f09-a06d-79d70440b3a2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "73c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Guadalajara, Mexico City, Monterrey (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e1de421a-d64f-4efc-bfbc-7b0c007d7043"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8cc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Dublin, Edinburgh, Lisbon, London (GMT)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b67414d9-f49e-4338-a53d-7e0023810abb"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "63b1921d-1419-4699-bda0-7e5be5adf389"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c5c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Hobart (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "57d9d427-1a98-4862-adbe-828772101b1a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "adc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Chennai, Kolkata, Mumbai, New Delhi (GMT+05:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "145dc67b-94db-4229-9e41-8374a810e64d"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8cc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Dublin, Edinburgh, Lisbon, London (GMT)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d05cc09d-ed32-4f9a-baa1-858ae8d59c68"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Cairo (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ed447abb-9ee6-490b-891d-883357316d2c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "92c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Sarajevo, Skopje, Warsaw, Zagreb (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d4aa7196-85b0-4bed-bf87-89952e8a6e64"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "(GMT) UTC Time Format"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ec41c725-732c-4d55-84d8-8c741e2c453e"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "97c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "05d546eb-1573-410b-bb6f-8e5ca54276ab"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "fae88097-ce98-45fa-9cab-4a1c826add7c",
+          "DisplayValue": "Anadyr, Petropavlovsk-Kamchatsky (RTZ 11) (GMT+12:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7203b5b7-adf6-447b-bc2a-8f0631f87ea8"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5f4608ff-f704-47ca-ac7f-8f493ab64b09"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a0c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Moscow, St. Petersburg, Volgograd (RTZ 2) (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "320f02d0-7177-47a4-9fc6-9610fbcb4e12"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9ac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Jerusalem (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2918b912-a6c7-4ceb-a2e0-97f8e989d7f3"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c4c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Canberra, Melbourne, Sydney (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1ceb33ce-0164-4e03-aae9-982afcfd8846"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c3c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Guam, Port Moresby (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5f4628c9-c0ff-4c22-9033-996cf00caa54"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuwait, Riyadh (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3509701e-911b-49fd-93f1-997bda6e8d9a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "97c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9c1388f4-5b06-460e-bb86-9f27a60b5919"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c1c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brisbane (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ccd48c21-8141-414f-aaa6-9f55b832003c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "95c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Athens, Bucharest (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "edf4628a-3501-4d03-ad2b-a11ebb724862"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a3c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Abu Dhabi, Muscat (GMT+04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2602c3fd-d839-40bc-9449-a9e42b86d9d4"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "bfc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Adelaide (GMT+09:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1651f115-c685-4008-bf58-aac8d0f40af0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "82c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brasilia (GMT-03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "402bc3e6-ea24-474c-9c21-ad5af034f2df"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a9c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kabul (GMT+04:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3062d02-6cfb-4d03-868e-b1e3463ea09b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8ac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Cabo Verde Is. (GMT-01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4feff0c8-5e4a-43d0-b8a3-b2c5fb52e5e0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a1c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Nairobi (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "002a1a0d-aea4-4159-8b19-b65533d56d80"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "99c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Damascus (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1ccaa637-785a-4f21-844d-b6a3c1eadd38"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "adc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Chennai, Kolkata, Mumbai, New Delhi (GMT+05:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cc7f8aeb-cde9-48a5-aee8-b7b2c3190ff8"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b9c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Perth (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "97a93438-0747-4d58-9700-b7e4ff15a50b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Samoa (GMT+13:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "65157645-c5da-4b82-a137-b9ce726c95c5"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "89c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Azores (GMT-01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "56bc7118-11da-4c8a-bd61-ba8532e5ee4a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9cc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "E. Europe (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f6033b58-fe63-46e3-bf3d-bf829810db5f"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Samoa (GMT+13:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45f21ec1-44f1-4b45-887c-c0250bb9aaa8"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b5c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Krasnoyarsk (RTZ 6) (GMT+07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6393e76d-35f9-4081-bf90-c051164eacab"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "a2c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Tehran (GMT+03:30)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "755d2edf-a54b-47a7-bf0c-c13b1b4ae12c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "94c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amman (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d19c84f4-3428-4113-a2f3-c14a77c0b777"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "97c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7d2b2ea2-f71d-467c-893e-c26c1117f2b2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "78c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Bogota, Lima, Quito, Rio Branco (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4ce8454a-32c7-4c1b-831c-c370471ad13c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b6c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Beijing, Chongqing, Hong Kong, Urumqi (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fe952377-b922-4fc5-a629-c4bca16c7a69"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "172c1e5b-b235-4f06-9ac8-c622841c69e7"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b8c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuala Lumpur, Singapore (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "52092d2b-df00-4dec-836a-c771dbedf5f5"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ecec3718-528b-4c94-9a2f-c81289179f68"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Monrovia, Reykjavik (GMT)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "aabb96d1-c7dd-43d7-8d0b-cb7a3bc31981"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Baghdad (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e92d1325-a524-454a-9f8c-cc657b95241b"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "77c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Central Time (US & Canada) (GMT-06:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0f0649a3-0e05-4620-97b7-cccd49503117"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "83c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "City of Buenos Aires (GMT-03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e195b5a5-71c7-4975-8fd2-d27ebaae3875"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuwait, Riyadh (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "36ce3df2-d694-40ff-ac9e-d58cb690e910"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b4c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Bangkok, Hanoi, Jakarta (GMT+07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fa4e63bc-1bd0-4da3-9c4d-d7bc1b570c73"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c6c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Solomon Is., New Caledonia (GMT+11:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c47ab0c1-5937-45e6-9f26-d7c28226356a"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "bdc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Seoul (GMT+09:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "53f6bd08-a9bd-4b14-bcfa-d9a735e064f2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "79c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Eastern Time (US & Canada) (GMT-05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b5419c92-3f07-4f1b-853a-dd01000126e4"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "8fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5c7a62f3-9a8d-4518-804b-df9f3208d3ab"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "94c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amman (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d08b31f8-bb31-45cc-b83f-e0dffc63dfd6"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Pacific Time (US & Canada) (GMT-08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "22f4e600-1292-4919-9e5d-e204db9525d1"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "90c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Belgrade, Bratislava, Budapest, Ljubljana, Prague (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8c9393b7-28fc-4741-a74d-e304f126e324"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "7dc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Atlantic Time (Canada) (GMT-04:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c83b015f-4dae-4314-98e3-e4cc10540e02"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "aac71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Ekaterinburg (RTZ 4) (GMT+05:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "eec6b6a5-a79b-458e-80af-e7267bd541c2"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b7c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Irkutsk (RTZ 7) (GMT+08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c24b24d9-01be-46c5-81bd-e86d3082ab78"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Pacific Time (US & Canada) (GMT-08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3e471f11-f2f7-4dc9-a2d4-e89d124069e0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "e872b0a4-a1e6-4ba1-8b99-e849f6b65be8",
+          "DisplayValue": "Kiritimati Island (GMT+14:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4d7997ba-3fe3-4944-9af4-ea923ee92cc0"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "91c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brussels, Copenhagen, Madrid, Paris (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ebef6d99-db2f-40ca-a4bf-eb8a09e7f1be"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "84c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Greenland (GMT-03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9245e1a8-745a-49a1-9cfe-ecb191f70a0e"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "c2c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Vladivostok, Magadan (RTZ 9) (GMT+10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8bedaeba-a352-4f35-b24f-ee854b1d766d"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "94c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Amman (GMT+02:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "53d452fe-b98c-4ee6-974f-efee14175243"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "92c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Sarajevo, Skopje, Warsaw, Zagreb (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "076ea52e-a82d-4739-842e-f2cc1e9831b3"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuwait, Riyadh (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5eeaeb4c-c801-4604-9458-f5483d3dc1ea"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6ec71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Pacific Time (US & Canada) (GMT-08:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3d3a664f-bdfc-495d-b113-f59c6f5b11dd"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "92c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Sarajevo, Skopje, Warsaw, Zagreb (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "12a01eb7-963d-4ece-b874-f5ff83026b7d"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "9fc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Kuwait, Riyadh (GMT+03:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fe742180-fd74-48d0-86fd-f8f453cdcd32"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "91c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brussels, Copenhagen, Madrid, Paris (GMT+01:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f7d385f8-59e3-4b6c-a186-f8f62480c97c"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "70c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Mountain Time (US & Canada) (GMT-07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c4b739bd-7c54-435e-bab4-fb650bd2b897"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "6bc71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Hawaii (GMT-10:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5cb610cb-00f6-4b1d-aa9d-fda225d83ffb"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "b4c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Bangkok, Hanoi, Jakarta (GMT+07:00)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8ad95bea-e302-4990-89cf-fed498c96691"
+        },
+        {
+          "SchemaColumnUId": "bf2c10be-622f-4bc9-a1a5-3e7a63dcfe2d",
+          "Value": "82c71d34-55d8-df11-9b2a-001d60e938c6",
+          "DisplayValue": "Brasilia (GMT-03:00)"
+        }
+      ]
+    }
+  ]
+}

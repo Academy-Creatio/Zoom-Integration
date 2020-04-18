@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d589c5a-4102-4526-a7c9-09476cffeef9",
+    "Name": "ZoomAutoRecording",
+    "ModifiedOnUtc": "\/Date(1542131533000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Auto Recording",
+    "DependsOn": []
+  }
+}

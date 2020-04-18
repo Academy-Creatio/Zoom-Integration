@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5408070d-4b86-4860-b89f-5e3d06b20ec2",
+    "Name": "ActivityEventListener",
+    "ModifiedOnUtc": "\/Date(1553767016000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ActivityEventListener",
+    "DependsOn": []
+  }
+}

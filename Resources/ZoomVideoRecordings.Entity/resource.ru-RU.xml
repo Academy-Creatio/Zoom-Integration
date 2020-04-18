@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Activity.Caption" Value="Активность" />
+			<Item Name="Columns.DownloadUrl.Caption" Value="Ссылка Скачать" />
+			<Item Name="Columns.FileId.Caption" Value="Фаил Id" />
+			<Item Name="Columns.FileSize.Caption" Value="Размер Файла" />
+			<Item Name="Columns.FileType.Caption" Value="Тип Файла" />
+			<Item Name="Columns.MeetingId.Caption" Value="Конференция Id" />
+			<Item Name="Columns.PlayUrl.Caption" Value="Ссылка Проиграть " />
+			<Item Name="Columns.RecordHash.Caption" Value="Хаш" />
+			<Item Name="Columns.RecordingEnd.Caption" Value="Окончание Записи" />
+			<Item Name="Columns.RecordingStart.Caption" Value="Начало Записи" />
+			<Item Name="Columns.RecordingType.Caption" Value="Тип Записи" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+		</Items>
+	</Group>
+</Resources>

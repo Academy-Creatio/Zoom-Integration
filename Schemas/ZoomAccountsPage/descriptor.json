@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e5fbb13-ab6d-4241-b78e-6358c15dc227",
+    "Name": "ZoomAccountsPage",
+    "ModifiedOnUtc": "\/Date(1587215636000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Zoom Accounts\""
+  }
+}

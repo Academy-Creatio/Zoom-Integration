@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Zoom Accounts&quot;" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Mostrar duplicado '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="El informe se generará para todos los registros de la sección, sin filtros. ¿Desea continuar?" />
+		</Items>
+	</Group>
+</Resources>

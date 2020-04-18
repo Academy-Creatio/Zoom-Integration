@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "17408241-ca41-4989-9924-899753542127",
+    "Name": "ZoomMeetingFile",
+    "ModifiedOnUtc": "\/Date(1542130006000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Meeting attachment",
+    "DependsOn": []
+  }
+}

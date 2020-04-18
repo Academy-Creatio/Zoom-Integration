@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "14d11581-6441-4417-8891-dcce096adad9",
+    "Name": "ZoomRegistrationType",
+    "ModifiedOnUtc": "\/Date(1542131537000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Registration Type",
+    "DependsOn": []
+  }
+}

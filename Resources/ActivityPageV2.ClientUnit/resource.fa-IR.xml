@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Activity edit page" />
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="تماسها" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="خوراک" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="خوراک را دنبال کنید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="عدم پیگیری فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>

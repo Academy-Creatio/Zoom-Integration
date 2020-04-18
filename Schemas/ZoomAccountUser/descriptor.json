@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "31b31a84-6914-4ff8-89db-93897a7b87bd",
+    "Name": "ZoomAccountUser",
+    "ModifiedOnUtc": "\/Date(1542153625000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Account User",
+    "DependsOn": []
+  }
+}

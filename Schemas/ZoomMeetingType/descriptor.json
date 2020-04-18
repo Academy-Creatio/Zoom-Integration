@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "35a081da-93c5-457e-86ad-2803de12f6c3",
+    "Name": "ZoomMeetingType",
+    "ModifiedOnUtc": "\/Date(1542131540000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Meeting Type",
+    "DependsOn": []
+  }
+}

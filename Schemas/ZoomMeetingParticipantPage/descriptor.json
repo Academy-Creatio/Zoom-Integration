@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f074c6a4-961f-4073-ac79-0a4aa85c804e",
+    "Name": "ZoomMeetingParticipantPage",
+    "ModifiedOnUtc": "\/Date(1587215288000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Card schema: \"Zoom Meeting Participant\""
+  }
+}

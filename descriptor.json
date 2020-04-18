@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "7649b32d-b743-48c5-a010-eb4cfd59010d",
+    "Name": "ZoomIntegration",
+    "ModifiedOnUtc": "\/Date(1587227595000)\/",
+    "Maintainer": "Customer",
+    "Description": "https://github.com/Academy-Creatio/Zoom-Integration",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

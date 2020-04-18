@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "828b6517-3663-42f1-9126-2f2a43c83e51",
+    "Name": "ZoomAccountUserDeatils",
+    "ModifiedOnUtc": "\/Date(1587215661000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Zoom Account User\""
+  }
+}

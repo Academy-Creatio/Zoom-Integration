@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f32824a0-0457-49c6-8cc1-42ed08252801",
+    "Name": "ZoomVideoRecordingsEventListener",
+    "ModifiedOnUtc": "\/Date(1548358514000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ZoomVideoRecordingsEventListener",
+    "DependsOn": []
+  }
+}

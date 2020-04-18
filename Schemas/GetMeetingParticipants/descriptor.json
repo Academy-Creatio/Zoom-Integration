@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "c1b03efc-b30c-46ed-af50-8d38d373c1e1",
+    "Name": "GetMeetingParticipants",
+    "ModifiedOnUtc": "\/Date(1587222206000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "GetMeetingParticipants"
+  }
+}

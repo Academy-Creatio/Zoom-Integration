@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b644c225-9160-4cf3-ac9e-b333434192a2",
+    "Name": "ActivityMiniPage",
+    "ModifiedOnUtc": "\/Date(1552052052000)\/",
+    "Parent": {
+      "UId": "f57e4142-a454-4126-b49f-6f6288af6504",
+      "Name": "ActivityMiniPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ActivityMiniPage",
+    "DependsOn": []
+  }
+}

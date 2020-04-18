@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5cdeebd-e878-4fac-9bfb-dae8efc39973",
+    "Name": "ZoomMeetingApi",
+    "ModifiedOnUtc": "\/Date(1548352804000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Zoom Meeting API",
+    "DependsOn": []
+  }
+}

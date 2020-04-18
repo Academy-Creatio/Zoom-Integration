@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zoom Meeting" />
+			<Item Name="Columns.Agenda.Caption" Value="Agenda" />
+			<Item Name="Columns.AlternativeHosts.Caption" Value="Alternative Hosts" />
+			<Item Name="Columns.ApprovalType.Caption" Value="Approval Type" />
+			<Item Name="Columns.Audio.Caption" Value="Audio" />
+			<Item Name="Columns.AutoRecording.Caption" Value="Auto Recording" />
+			<Item Name="Columns.ChinaMeeting.Caption" Value="China Meeting" />
+			<Item Name="Columns.CreatedAt.Caption" Value="Created At" />
+			<Item Name="Columns.Duration.Caption" Value="Duration" />
+			<Item Name="Columns.EndDateTime.Caption" Value="End Date Time" />
+			<Item Name="Columns.EndTimes.Caption" Value="End Times" />
+			<Item Name="Columns.EnforceLogin.Caption" Value="Enforce Login" />
+			<Item Name="Columns.EnforceLoginDomains.Caption" Value="Enforce Login Domains" />
+			<Item Name="Columns.HostId.Caption" Value="Host Id" />
+			<Item Name="Columns.HostVideo.Caption" Value="Host Video" />
+			<Item Name="Columns.IndiaMeeting.Caption" Value="India Meeting" />
+			<Item Name="Columns.JoinBeforeHost.Caption" Value="Join Before Host" />
+			<Item Name="Columns.JoinUrl.Caption" Value="Join Url" />
+			<Item Name="Columns.MeetingId.Caption" Value="Meeting Id" />
+			<Item Name="Columns.MeetingType.Caption" Value="Meeting Type" />
+			<Item Name="Columns.MeetingUuid.Caption" Value="Meeting Uuid" />
+			<Item Name="Columns.MonthlyDay.Caption" Value="Monthly Day" />
+			<Item Name="Columns.MonthlyWeek.Caption" Value="Monthly Week" />
+			<Item Name="Columns.MonthlyWeekDay.Caption" Value="Monthly Week Day" />
+			<Item Name="Columns.MuteUponEntry.Caption" Value="Mute Upon Entry" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.ParticipantVideo.Caption" Value="Participant Video" />
+			<Item Name="Columns.Password.Caption" Value="Password" />
+			<Item Name="Columns.RecurrenceType.Caption" Value="Recurrence Type" />
+			<Item Name="Columns.RegistrationType.Caption" Value="Registration Type" />
+			<Item Name="Columns.RegistrationUrl.Caption" Value="Registration Url" />
+			<Item Name="Columns.StartTime.Caption" Value="Start Time" />
+			<Item Name="Columns.StartUrl.Caption" Value="Start Url" />
+			<Item Name="Columns.TimeZone.Caption" Value="Timezone" />
+			<Item Name="Columns.Topic.Caption" Value="Topic" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+			<Item Name="Columns.UsePmi.Caption" Value="Use PMI" />
+			<Item Name="Columns.Watermark.Caption" Value="Watermark" />
+			<Item Name="Columns.WeeklyDays.Caption" Value="Weekly Days" />
+		</Items>
+	</Group>
+</Resources>

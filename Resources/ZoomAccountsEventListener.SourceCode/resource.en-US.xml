@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ZoomAccountsEventListener" />
+			<Item Name="LocalizableStrings.ExceptionErrorMessage.Value" Value="Invalid Data: API Secret has to be at least 17 characters long." />
+			<Item Name="LocalizableStrings.NoNewUsersWereAdded.Value" Value="Users already exists - No new users were added" />
+			<Item Name="LocalizableStrings.ZoomApiErrorMessage.Value" Value="Zoom API Error: Could not get account data, check your ApiKey and ApiSecre" />
+		</Items>
+	</Group>
+</Resources>

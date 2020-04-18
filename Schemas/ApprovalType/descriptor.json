@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0d690ddd-320e-4d41-af12-c873e88c93a0",
+    "Name": "ApprovalType",
+    "ModifiedOnUtc": "\/Date(1542131546000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approval Type",
+    "DependsOn": []
+  }
+}

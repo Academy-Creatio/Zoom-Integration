@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AlternativeHosts.Caption" Value="Alternative Hosts" />
+			<Item Name="Columns.CreateZoomMeeting.Caption" Value="Create Zoom Meeting" />
+			<Item Name="Columns.HostId.Caption" Value="Host Id" />
+			<Item Name="Columns.JoinUrl.Caption" Value="Join Url" />
+			<Item Name="Columns.MeetingId.Caption" Value="MeetingId" />
+			<Item Name="Columns.MeetingUUID.Caption" Value="Meeting UUID" />
+			<Item Name="Columns.RegistrationUrl.Caption" Value="Registration Url" />
+			<Item Name="Columns.StartUrl.Caption" Value="Start Url" />
+		</Items>
+	</Group>
+</Resources>

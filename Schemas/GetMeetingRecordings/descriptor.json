@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "40f68af3-cbbf-4b59-9d98-84561a26a98b",
+    "Name": "GetMeetingRecordings",
+    "ModifiedOnUtc": "\/Date(1587222119000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "GetMeeting Recordings"
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AlternativeHosts.Caption" Value="Дополнительный Ведущий" />
+			<Item Name="Columns.CreateZoomMeeting.Caption" Value="Создать ZOOM Конференцию" />
+			<Item Name="Columns.HostId.Caption" Value="Id Ведущего" />
+			<Item Name="Columns.JoinUrl.Caption" Value="Ссылка Подключения" />
+			<Item Name="Columns.MeetingId.Caption" Value="Id Конференции" />
+			<Item Name="Columns.RegistrationUrl.Caption" Value="Ссылка на Регистрацию" />
+			<Item Name="Columns.StartUrl.Caption" Value="Ссылка Начала" />
+		</Items>
+	</Group>
+</Resources>

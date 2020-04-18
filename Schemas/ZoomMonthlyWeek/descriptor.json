@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a13da988-bcb5-4ab0-b08a-de74f830b8ff",
+    "Name": "ZoomMonthlyWeek",
+    "ModifiedOnUtc": "\/Date(1542131530000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Monthly Week",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "828b6517-3663-42f1-9126-2f2a43c83e51"
+= MetaData.Schema.A2 "ZoomAccountUserDeatils"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "828b6517-3663-42f1-9126-2f2a43c83e51"
+= MetaData.Schema.B6 "7649b32d-b743-48c5-a010-eb4cfd59010d"
+= MetaData.Schema.B8 "7.13.0.284"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

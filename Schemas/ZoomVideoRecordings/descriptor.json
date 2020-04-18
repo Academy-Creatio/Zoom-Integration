@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a6c38dc9-e016-49d3-ac5f-470d00901d3e",
+    "Name": "ZoomVideoRecordings",
+    "ModifiedOnUtc": "\/Date(1548356741000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Video Recordings",
+    "DependsOn": []
+  }
+}

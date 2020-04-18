@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f362d68-3a97-4957-ae8a-6c64d803bfd8",
+    "Name": "ZoomTimeZone",
+    "ModifiedOnUtc": "\/Date(1542132840000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Time Zone",
+    "DependsOn": []
+  }
+}

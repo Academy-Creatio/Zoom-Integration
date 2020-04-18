@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zoom Video Recordings" />
+			<Item Name="Columns.Activity.Caption" Value="Activity" />
+			<Item Name="Columns.DownloadUrl.Caption" Value="Download Url" />
+			<Item Name="Columns.FileId.Caption" Value="File Id" />
+			<Item Name="Columns.FileSize.Caption" Value="File Size" />
+			<Item Name="Columns.FileType.Caption" Value="File Type" />
+			<Item Name="Columns.MeetingId.Caption" Value="Meeting Id" />
+			<Item Name="Columns.PlayUrl.Caption" Value="Play Url" />
+			<Item Name="Columns.RecordHash.Caption" Value="Record Hash" />
+			<Item Name="Columns.RecordingEnd.Caption" Value="Recording End" />
+			<Item Name="Columns.RecordingStart.Caption" Value="Recording Start" />
+			<Item Name="Columns.RecordingType.Caption" Value="Recording Type" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

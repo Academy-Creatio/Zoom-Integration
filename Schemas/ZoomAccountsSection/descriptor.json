@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e0589eca-d844-416c-bbef-5e6dd800e995",
+    "Name": "ZoomAccountsSection",
+    "ModifiedOnUtc": "\/Date(1587215175000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Zoom Accounts\""
+  }
+}

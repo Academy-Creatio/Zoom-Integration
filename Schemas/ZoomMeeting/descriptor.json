@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff7be005-ea76-48fb-934b-c34cbeb4ee31",
+    "Name": "ZoomMeeting",
+    "ModifiedOnUtc": "\/Date(1542132684000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Meeting",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1eb7d338-3000-470b-b4cf-a3021eb6b88e",
+    "Name": "ZoomMeetingPage",
+    "ModifiedOnUtc": "\/Date(1587215121000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Zoom Meeting\""
+  }
+}

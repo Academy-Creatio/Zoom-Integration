@@ -1,0 +1,11 @@
+﻿{
+  "Properties": {
+    "AdministratedByColumns": "False",
+    "AdministratedByOperations": "False",
+    "AdministratedByRecords": "False",
+    "CreatedInVersion": "7.13.0.284",
+    "IsTrackChangesInDB": "False",
+    "IsVirtual": "False",
+    "MasterRecordSchemaName": "ZoomAccounts"
+  }
+}

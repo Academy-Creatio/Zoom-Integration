@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "46cb9cc8-8c15-4ad2-a871-7f05d8f72a74",
+    "Name": "ZoomMeetingInTag",
+    "ModifiedOnUtc": "\/Date(1542130010000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Meeting section record tag",
+    "DependsOn": []
+  }
+}

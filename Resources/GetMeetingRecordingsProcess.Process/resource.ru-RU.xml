@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="No response" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Give Up after 25 tries" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Store Activity Id" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Increment Counter" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Caption" Value="Wait for timer" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.Caption" Value="Start in (sec.)" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.DisplayValue" Value="[#Counter#]*60" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Attach Activity" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Объект" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#RecordId#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Схема объекта" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Activity" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read Activity" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.SequenceFlow7.Caption" Value="Try Again" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Completed" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.UserTask1.Caption" Value="GetMeeting Recordings" />
+			<Item Name="BaseElements.UserTask1.Parameters.ActivityId.Caption" Value="ActivityId" />
+			<Item Name="BaseElements.UserTask1.Parameters.ActivityId.DisplayValue" Value="[#RecordId#]" />
+			<Item Name="BaseElements.UserTask1.Parameters.ErrorDescription.Caption" Value="Описание Ошибки" />
+			<Item Name="BaseElements.UserTask1.Parameters.MeetingId.Caption" Value="MeetingId" />
+			<Item Name="BaseElements.UserTask1.Parameters.MeetingId.DisplayValue" Value="[#Read Activity.First item of resulting collection.MeetingId#]" />
+			<Item Name="BaseElements.UserTask1.Parameters.MeetingUuid.Caption" Value="Meeting Uuid" />
+			<Item Name="BaseElements.UserTask1.Parameters.MeetingUuid.DisplayValue" Value="[#Read Activity.First item of resulting collection.Meeting UUID#]" />
+			<Item Name="BaseElements.UserTask1.Parameters.result.Caption" Value="result" />
+			<Item Name="Caption" Value="Получить Запись Конференции" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="Counter" />
+			<Item Name="Parameters.ProcessSchemaParameter2.Caption" Value="RecordId" />
+		</Items>
+	</Group>
+</Resources>

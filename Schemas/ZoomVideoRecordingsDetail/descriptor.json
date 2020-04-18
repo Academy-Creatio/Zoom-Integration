@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c48faa2c-2578-44b2-9b47-4d529fc4867f",
+    "Name": "ZoomVideoRecordingsDetail",
+    "ModifiedOnUtc": "\/Date(1587216016000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Zoom Video Recordings\""
+  }
+}

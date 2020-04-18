@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Пользователь Zoom" />
+			<Item Name="Columns.CreatedAt.Caption" Value="Создан" />
+			<Item Name="Columns.Department.Caption" Value="Департамент" />
+			<Item Name="Columns.FirstName.Caption" Value="Имя" />
+			<Item Name="Columns.LastClientVersion.Caption" Value="Версия Клиента" />
+			<Item Name="Columns.LastLoginTime.Caption" Value="Последний вход" />
+			<Item Name="Columns.LastName.Caption" Value="Фамилия" />
+			<Item Name="Columns.PMI.Caption" Value="ПМИ" />
+			<Item Name="Columns.TimeZone.Caption" Value="Часовой Пояс" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

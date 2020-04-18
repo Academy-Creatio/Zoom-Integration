@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "de6d82ae-7c1d-4953-8a70-265fa4cd20f2",
+    "Name": "ZoomAccountsTag",
+    "ModifiedOnUtc": "\/Date(1542111948000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Accounts section tag",
+    "DependsOn": []
+  }
+}

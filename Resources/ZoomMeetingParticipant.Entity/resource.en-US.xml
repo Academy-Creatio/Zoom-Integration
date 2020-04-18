@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zoom Meeting Participant" />
+			<Item Name="Columns.Activity.Caption" Value="Activity" />
+			<Item Name="Columns.Attentiveness.Caption" Value="Attentiveness" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Duration.Caption" Value="Duration" />
+			<Item Name="Columns.IsHost.Caption" Value="IsHost" />
+			<Item Name="Columns.JoinTime.Caption" Value="Joint Time" />
+			<Item Name="Columns.LeaveTime.Caption" Value="Leave Time" />
+			<Item Name="Columns.ParticipantEmail.Caption" Value="Participant Email" />
+			<Item Name="Columns.ParticipantName.Caption" Value="Participant Name" />
+			<Item Name="Columns.ParticipantUserId.Caption" Value="ParticipantUserId" />
+			<Item Name="Columns.RecordHash.Caption" Value="RecordHash" />
+			<Item Name="Columns.ZoomParticipantId.Caption" Value="ZoomParticipantId" />
+		</Items>
+	</Group>
+</Resources>

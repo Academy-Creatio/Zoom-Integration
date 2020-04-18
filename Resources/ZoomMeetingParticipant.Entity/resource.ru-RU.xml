@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Участник Zoom Встречи" />
+			<Item Name="Columns.Activity.Caption" Value="Активность" />
+			<Item Name="Columns.Attentiveness.Caption" Value="Внимание" />
+			<Item Name="Columns.Contact.Caption" Value="Участник" />
+			<Item Name="Columns.Duration.Caption" Value="Длительность" />
+			<Item Name="Columns.IsHost.Caption" Value="Ведущий" />
+			<Item Name="Columns.JoinTime.Caption" Value="Время Подключения" />
+			<Item Name="Columns.LeaveTime.Caption" Value="Время Отключения" />
+			<Item Name="Columns.ParticipantEmail.Caption" Value="Email Участника" />
+			<Item Name="Columns.ParticipantName.Caption" Value="Имя Участника" />
+			<Item Name="Columns.ParticipantUserId.Caption" Value="User ID Участника" />
+			<Item Name="Columns.RecordHash.Caption" Value="Хаш Ряда" />
+			<Item Name="Columns.ZoomParticipantId.Caption" Value="Zoom ID Участника" />
+		</Items>
+	</Group>
+</Resources>

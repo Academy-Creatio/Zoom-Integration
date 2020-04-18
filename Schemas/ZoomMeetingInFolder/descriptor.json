@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "780b2cd4-9d69-4f12-8935-dc210a23db5d",
+    "Name": "ZoomMeetingInFolder",
+    "ModifiedOnUtc": "\/Date(1542130008000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Zoom Meeting in Folder",
+    "DependsOn": []
+  }
+}
